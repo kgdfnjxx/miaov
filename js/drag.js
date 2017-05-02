@@ -1,7 +1,7 @@
-function test(){
-	alert("123");
-}
+function drag(id){
+	var obj = document.getElementById(id);
 
-function drag(){
-	
+	obj.onmousedown = function(){
+		
+	}
 }
